@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.zzyblog.cn/sitemap.xml
